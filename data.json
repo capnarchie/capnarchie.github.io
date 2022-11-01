@@ -2,7 +2,7 @@
     {
         "post_id": 1,
         "year": "2022.01.13",
-        "post_text": "asdadasdsad",
+        "post_text": "Lorem ipsum dolor sit amet",
         "like_img": "./like.png",
         "post_profile_img": "./user.png",
         "post_img": "./content.png"
@@ -10,7 +10,7 @@
     {
         "post_id": 2,
         "year": "2022.01.13",
-        "post_text": "asdadasdsad",
+        "post_text": "Lorem ipsum dolor sit amet",
         "like_img": "./like.png",
         "post_profile_img": "./user.png",
         "post_img": "./content.png"
@@ -26,7 +26,7 @@
     {
         "post_id": 4,
         "year": "2022.01.13",
-        "post_text": "asdadasdsad",
+        "post_text": "Lorem ipsum dolor sit amet",
         "like_img": "asd",
         "post_profile_img": "./user.png",
         "post_img": ""
@@ -34,10 +34,49 @@
     {
         "post_id": 5,
         "year": "2022.01.13",
-        "post_text": "asdadasdsad",
+        "post_text": "Lorem ipsum dolor sit amet",
         "like_img": "asd",
         "post_profile_img": "./user.png",
         "post_img": ""
     }
-    
+    {
+        "post_id": 6,
+        "year": "2022.01.13",
+        "post_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "like_img": "asd",
+        "post_profile_img": "./user.png",
+        "post_img": ""
+    }
+    {
+        "post_id": 7,
+        "year": "2022.01.13",
+        "post_text": "Lorem ipsum dolor sit amet",
+        "like_img": "asd",
+        "post_profile_img": "./user.png",
+        "post_img": ""
+    }
+    {
+        "post_id": 8,
+        "year": "2022.01.13",
+        "post_text": "Lorem ipsum dolor sit amet",
+        "like_img": "asd",
+        "post_profile_img": "./user.png",
+        "post_img": ""
+    }
+    {
+        "post_id": 9,
+        "year": "2022.01.13",
+        "post_text": "Lorem ipsum dolor sit amet",
+        "like_img": "asd",
+        "post_profile_img": "./user.png",
+        "post_img": ""
+    }
+    {
+        "post_id": 10,
+        "year": "2022.01.13",
+        "post_text": "Lorem ipsum dolor sit amet",
+        "like_img": "asd",
+        "post_profile_img": "./user.png",
+        "post_img": ""
+    }
 ]

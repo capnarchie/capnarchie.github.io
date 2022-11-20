@@ -57,7 +57,7 @@
         "post_id": 7,
         "year": "2022.01.13",
         "post_text": "Lorem ipsum dolor sit amet",
-        "like_img": "asd",
+        "like_img": "./like.png",
         "post_profile_img": "./user.png",
         "post_img": "",
         "like_count": ""
